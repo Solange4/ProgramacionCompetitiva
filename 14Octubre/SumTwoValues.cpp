@@ -27,7 +27,7 @@ void sumTwoValues(vector<pair<int,int>> &array, int n, int x){
 int main(){
     int n, x;
     cin >> n >> x;
-    vector<pair<int,int>> array; 
+    vector<pair<int,int>> array ; 
     int a;
     for(int i=0; i<n; i++){
         cin >> a;

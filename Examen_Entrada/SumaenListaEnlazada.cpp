@@ -52,7 +52,7 @@ void ListaSEnlazada :: print(){
 
 void Suma(ListaSEnlazada A, ListaSEnlazada B){
     /*  Función que sume dos números. Tanto los números como el resultado están representados 
-        con unalista enlazada. Cada digito es almacenado en un nodo. Los dígitos son almacenados 
+        con una lista enlazada. Cada digito es almacenado en un nodo. Los dígitos son almacenados 
         en orden reverso.
     */
     ListaSEnlazada S;

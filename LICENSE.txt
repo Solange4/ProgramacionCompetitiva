@@ -1,2 +1,3 @@
-Copyright (c) 2021, Solange Romero
+Copyright (c) 2021, Solange Aracely Romero Chacon
+
 All rights reserved.
